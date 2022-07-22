@@ -12,6 +12,6 @@ Make a smart webcam in JavaScript with a TensorFlow.js pre-trained Machine Learn
 
 ## Multiple object detection example
 
-<img src="https://imgur.com/gallery/5UcS828">
+<img src="[https://imgur.com/gallery/5UcS828](https://i.imgur.com/YYoVvai.jpeg)">
 
 ## Thanks!
