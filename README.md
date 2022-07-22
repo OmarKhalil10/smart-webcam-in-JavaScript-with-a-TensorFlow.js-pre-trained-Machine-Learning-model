@@ -3,7 +3,7 @@ Make a smart webcam in JavaScript with a TensorFlow.js pre-trained Machine Learn
 
 <br>
 
-![img]()
+![img](tensorflow-js.png)
 
 * This repository written for reference and self-documentation purpose
 * Feel free to contribute!
